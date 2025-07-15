@@ -17,7 +17,9 @@ This is a responsive Amazon Clone website built using **HTML** and **CSS**. It i
 
 ## 📷 Screenshots
 
-_(Add screenshots here if you want. Upload and link images.)_
+### 🏠 Homepage
+
+![Amazon Clone Screenshot](https://raw.githubusercontent.com/Saksham-sh/AMAZON-clone/dcb162d3bea78484ef8c4c3783d4b6116bdfa2b2/Amazon1.png)
 
 ## 🚀 Getting Started
 
@@ -25,5 +27,5 @@ To run this project locally:
 
 ```bash
 1. Download or clone the repository
-2. Open the folder in your browser or with Live Server in VS Code
+2. Open the folder in your browser orgit commit -m "Add README file" with Live Server in VS Code
 ```
