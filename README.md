@@ -19,7 +19,11 @@ This is a responsive Amazon Clone website built using **HTML** and **CSS**. It i
 
 ### 🏠 Homepage
 
-![Amazon Clone Screenshot](https://raw.githubusercontent.com/Saksham-sh/AMAZON-clone/dcb162d3bea78484ef8c4c3783d4b6116bdfa2b2/Amazon1.png)
+![Homepage Screenshot](https://raw.githubusercontent.com/Saksham-sh/AMAZON-clone/dcb162d3bea78484ef8c4c3783d4b6116bdfa2b2/Amazon1.png)
+
+### 🛍️ Product Section
+
+![Product Section Screenshot](https://raw.githubusercontent.com/Saksham-sh/AMAZON-clone/dcb162d3bea78484ef8c4c3783d4b6116bdfa2b2/Amazon2.png)
 
 ## 🚀 Getting Started
 
